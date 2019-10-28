@@ -21,10 +21,10 @@ C语言扫雷项目
 
 *截图预览*
 
-![扫雷](readme_pic/微信截图_20191028104959.png)
-![扫雷](readme_pic/TIM截图20191028105033.jpg)
-![扫雷](readme_pic/TIM截图20191028105055.jpg)
-![扫雷](readme_pic/TIM截图20191028105308.jpg)
+![扫雷](https://github.com/TOKISAKIKRM/Mine-sweeper/edit/master/readme_pic/微信截图_20191028104959.png)
+![扫雷](https://github.com/TOKISAKIKRM/Mine-sweeper/edit/master/readme_pic/TIM截图20191028105033.jpg)
+![扫雷](https://github.com/TOKISAKIKRM/Mine-sweeper/edit/master/readme_pic/TIM截图20191028105055.jpg)
+![扫雷](https://github.com/TOKISAKIKRM/Mine-sweeper/edit/master/readme_pic/TIM截图20191028105308.jpg)
 
 -------------
 <br>
